@@ -1,0 +1,4 @@
+// lists or finds all colection of school
+
+
+db.school.find()
